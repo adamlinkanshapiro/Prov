@@ -1,0 +1,13 @@
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.exe
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.deps.json
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.json
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.dev.json
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.dll
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\bin\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.csprojAssemblyReference.cache
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfoInputs.cache
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfo.cs
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.csproj.CoreCompileInputs.cache
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.dll
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\adam.shapiro\Documents\PRPRPR01\Prov\Prov\obj\Debug\netcoreapp3.1\Prov.genruntimeconfig.cache
